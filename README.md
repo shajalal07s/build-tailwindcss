@@ -26,13 +26,12 @@ You need to have the following installed on your machine:
 
 ### Installation
 1. Clone the repository:
-```bash
-   https://github.com/shajalal07s/figma-06.git
+   ```bash
    https://github.com/shajalal07s/youtube-p.git
 
 2. Dist file add in index.html file
-```bash
-  <link rel="stylesheet" href="../dist/output.css">
+   ```bash
+   <link rel="stylesheet" href="../dist/output.css">
 
 ## Desktop
 
@@ -60,3 +59,4 @@ https://drive.google.com/file/d/195hPoITpZki8wJmN1dCpRWFYfbERvSCc/view?usp=drive
 - **Languages**: HTML, CSS, Wordpress (Mid-level)
 - **Frameworks**:Tailwind CSS,
 - **Tools**: Git, GitHub, VSCode, Figma
+- **Other**: Responsive Design (Mid-level), UI/UX Design, Web Performance Optimization.
