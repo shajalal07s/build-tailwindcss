@@ -35,19 +35,19 @@ You need to have the following installed on your machine:
 
 ## Desktop
 
-https://drive.google.com/file/d/11ec2n9ik6xkx-VWfGFXv3n-b98a1wXXH/view?usp=drive_link
+https://drive.google.com/file/d/1R651AKFBk182a7uBeUFZlmQumacDLsYJ/view?usp=drive_link
 
-## Xl Device
+## XL Device
 
-https://drive.google.com/file/d/1nSQGy5U5dt-sKHWXocfXLONITPirGD1S/view?usp=drive_link
+https://drive.google.com/file/d/1fzy8mleZd_hcp0rp8brTDjNl24IsrHiC/view?usp=drive_link
 
 ## Lablet
 
-https://drive.google.com/file/d/18XbAQ5B7tbttqdGwQe-TpIyo4X-E_Jzw/view?usp=drive_link
+https://drive.google.com/file/d/1w8OJSQtJu2S3vpDEUu45Z0pzchyYO2hi/view?usp=drive_link
 
 ## Mobile
 
-https://drive.google.com/file/d/195hPoITpZki8wJmN1dCpRWFYfbERvSCc/view?usp=drive_link
+https://drive.google.com/file/d/1_bRDrqRUaw1GdfvzgFHZnzwVDLm4MwsI/view?usp=drive_link
 
 
 ## About Me
